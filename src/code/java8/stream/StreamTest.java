@@ -3,7 +3,12 @@ package code.java8.stream;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-
+/**
+ * This is an sample class to show how to use Java Stream api
+ * 
+ * @author Aravindo Swain
+ *
+ */
 public class StreamTest {
 
     public static void main(String[] args) {
